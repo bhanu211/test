@@ -1,4 +1,4 @@
-idx,Unnamed: 0,price,beds,bath,sqft,lot_size,address,lat,long
+idx,price,beds,bath,sqft,lot_size,address,lat,long
 0,0,775000.0,2.0,2.0,1025.0,,"350 11th Ave Unit 725, San Diego, CA 92101",32.7088486,-117.1550768
 1,1,309900.0,1.0,1.0,507.0,1.57,"859 W San Ysidro Blvd Unit 9, San Ysidro, CA 92173",32.5596598,-117.0606557
 2,2,1349000.0,4.0,2.5,2068.0,,"11888 Miro Cir, San Diego, CA 92131",32.9194903,-117.1059077
